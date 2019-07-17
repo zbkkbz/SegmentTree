@@ -1,0 +1,4 @@
+#idea
+/.idea/*
+#java
+/out/production/SegmentTree/*
